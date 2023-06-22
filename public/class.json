@@ -1,0 +1,57 @@
+[
+    {
+      "image": "https://images.pexels.com/photos/8941650/pexels-photo-8941650.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "sport_name": "Football",
+      "instructor_name": "John Smith",
+      "instructor_email": "john.smith@example.com",
+      "instructor_id": "123456",
+      "available_seats": 20,
+      "course_price": 150
+    },
+    {
+      "image": "https://images.pexels.com/photos/12918815/pexels-photo-12918815.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "sport_name": "Swimming",
+      "instructor_name": "Emma Johnson",
+      "instructor_email": "emma.johnson@example.com",
+      "instructor_id": "789012",
+      "available_seats": 15,
+      "course_price": 200
+    },
+    {
+      "image": "https://images.pexels.com/photos/8223959/pexels-photo-8223959.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "sport_name": "Tennis",
+      "instructor_name": "Michael Davis",
+      "instructor_email": "michael.davis@example.com",
+      "instructor_id": "345678",
+      "available_seats": 10,
+      "course_price": 120
+    },
+    {
+      "image": "https://images.pexels.com/photos/8337493/pexels-photo-8337493.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "sport_name": "Basketball",
+      "instructor_name": "Sarah Thompson",
+      "instructor_email": "sarah.thompson@example.com",
+      "instructor_id": "901234",
+      "available_seats": 12,
+      "course_price": 180
+    },
+    {
+      "image": "https://images.pexels.com/photos/6203521/pexels-photo-6203521.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "sport_name": "Volleyball",
+      "instructor_name": "David Wilson",
+      "instructor_email": "david.wilson@example.com",
+      "instructor_id": "567890",
+      "available_seats": 8,
+      "course_price": 100
+    },
+    {
+      "image": "https://images.pexels.com/photos/9654745/pexels-photo-9654745.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "sport_name": "Gymnastics",
+      "instructor_name": "Emily Roberts",
+      "instructor_email": "emily.roberts@example.com",
+      "instructor_id": "234567",
+      "available_seats": 0,
+      "course_price": 250
+    }
+  ]
+  

@@ -1,0 +1,18 @@
+import { useQuery } from '@tanstack/react-query';
+import React from 'react';
+
+const usePopular = () => {
+  const{data: classes=[]} = useQuery({
+    queryKey: ['popularClasses'],
+    queryFn: async () => {
+      const response = await fetch('https://bongo-sports-server.vercel.app/popularClasses' )
+      if (!response.ok) {
+        throw new Error('Network response was not ok')
+      }
+      return response.json()
+    },
+  })
+  return [classes];
+};
+
+export default usePopular;
